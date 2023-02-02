@@ -1,0 +1,7 @@
+
+public class ProductValidator {
+	public boolean isVaid() {
+		return false;
+		
+	}
+}

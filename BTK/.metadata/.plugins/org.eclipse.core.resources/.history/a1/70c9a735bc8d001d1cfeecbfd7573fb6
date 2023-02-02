@@ -1,0 +1,6 @@
+
+public class ProductValidator {
+	publiv boolean isVaid() {
+		
+	}
+}

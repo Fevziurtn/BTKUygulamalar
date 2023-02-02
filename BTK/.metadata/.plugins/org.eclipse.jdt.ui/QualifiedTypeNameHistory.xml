@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="KrediUI"/>
+    <fullyQualifiedTypeName name="OgretmenKrediManager"/>
+    <fullyQualifiedTypeName name="BaseKrediManager"/>
+    <fullyQualifiedTypeName name="EmailLogger"/>
+    <fullyQualifiedTypeName name="FileLogger"/>
+    <fullyQualifiedTypeName name="ConsoleLogger"/>
+    <fullyQualifiedTypeName name="BaseLogger"/>
+    <fullyQualifiedTypeName name="DatabaseLogger"/>
+    <fullyQualifiedTypeName name="BaseDatabaseManager"/>
+    <fullyQualifiedTypeName name="CustomerManager"/>
+    <fullyQualifiedTypeName name="OracleDatabaseManager"/>
+    <fullyQualifiedTypeName name="java.lang.Object"/>
+    <fullyQualifiedTypeName name="java.util.Collections"/>
+    <fullyQualifiedTypeName name="Class_ArrayList.Customer"/>
+    <fullyQualifiedTypeName name="java.util.HashMap"/>
+    <fullyQualifiedTypeName name="java.io.BufferedReader"/>
+    <fullyQualifiedTypeName name="java.io.FileReader"/>
+    <fullyQualifiedTypeName name="Ornek3_Throw.AccountManager"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="Ornek3_Throw.BalanceInsufficentException"/>
+    <fullyQualifiedTypeName name="java.io.File"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.io.FileWriter"/>
+    <fullyQualifiedTypeName name="java.io.BufferedWriter"/>
+    <fullyQualifiedTypeName name="MyList"/>
+    <fullyQualifiedTypeName name="Ornek1.IEntityRepository"/>
+    <fullyQualifiedTypeName name="Ornek1.Product"/>
+    <fullyQualifiedTypeName name="Ornek1.IEntity"/>
+    <fullyQualifiedTypeName name="java.lang.Runnable"/>
+    <fullyQualifiedTypeName name="java.lang.InterruptedException"/>
+    <fullyQualifiedTypeName name="KronometreThread"/>
+    <fullyQualifiedTypeName name="java.sql.DriverManager"/>
+    <fullyQualifiedTypeName name="java.sql.Connection"/>
+    <fullyQualifiedTypeName name="DbHelper"/>
+    <fullyQualifiedTypeName name="java.sql.SQLException"/>
+    <fullyQualifiedTypeName name="com.mysql.cj.xdevapi.Statement"/>
+    <fullyQualifiedTypeName name="java.sql.ResultSet"/>
+    <fullyQualifiedTypeName name="java.sql.Statement"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="Musteri"/>
+    <fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
+</qualifiedTypeNameHistroy>

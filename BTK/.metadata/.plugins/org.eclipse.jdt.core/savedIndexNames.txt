@@ -1,0 +1,18 @@
+INDEX VERSION 1.131+D:\[JAVA_KAMP]\[BTK]\.metadata\.plugins\org.eclipse.jdt.core
+3441119577.index
+3610540441.index
+3244475859.index
+3152925263.index
+1219343341.index
+1428725243.index
+607976220.index
+3299269563.index
+3446232484.index
+1689532435.index
+1650357542.index
+1865797976.index
+100146312.index
+3416743096.index
+1693052264.index
+4031288166.index
+1312507092.index
