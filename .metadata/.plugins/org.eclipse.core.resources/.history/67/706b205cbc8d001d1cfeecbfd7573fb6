@@ -1,7 +1,0 @@
-
-public class ProductValidator {
-	public boolean isVaid(Product product) {
-		return false;
-		
-	}
-}
